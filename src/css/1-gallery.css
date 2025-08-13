@@ -1,0 +1,8 @@
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 360px);
+  gap: 24px;
+  justify-content: center;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
